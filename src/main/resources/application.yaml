@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: aiverse
+server:
+  port: 6768

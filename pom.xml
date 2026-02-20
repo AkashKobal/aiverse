@@ -14,7 +14,7 @@
 
 	<groupId>com.aiverse</groupId>
 	<artifactId>aiverse</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.1</version>
 	<name>AIVerse</name>
 	<description>Open-source multimodal AI model comparison platform</description>
 	<url>https://github.com/YOUR_USERNAME/aiverse</url>

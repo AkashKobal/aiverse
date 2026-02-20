@@ -16,6 +16,12 @@ Only the latest version receives security updates.
 
 If you discover a security vulnerability in AIVerse, please report it responsibly.
 
+### How to report
+
+Send an email to:
+
+**[akashkobal18@gmail.com](mailto:akashkobal18@gmail.com)**
+
 Include:
 
 * Description of the vulnerability

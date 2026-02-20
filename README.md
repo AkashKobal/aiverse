@@ -2,7 +2,7 @@
 
 **AIVerse** is an open-source multimodal AI comparison platform that allows users to send a single prompt to multiple AI models and compare their responses side-by-side in real time.
 
----
+--- 
 
 ## Screenshot
 
